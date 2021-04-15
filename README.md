@@ -21,5 +21,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/anandpratiksha/count.svg)
+
 
