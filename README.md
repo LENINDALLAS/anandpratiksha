@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandpratiksha&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="anandpratiksha" /></p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandpratiksh&show_icons=true&count_private=true&&theme=highcontrast)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandpratiksha&show_icons=true&count_private=true&&theme=highcontrast)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandpratiksha&theme=highcontrast)
 
