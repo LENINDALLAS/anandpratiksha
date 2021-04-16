@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Anand</h1>
 
-<p align="center"> ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) </p>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 
 - 🌱 I’m currently learning Jquery.
 - ⚡ Fun fact: I hate programming but, I also Love CODING !!! 
