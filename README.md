@@ -1,7 +1,8 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Pratiksha Anand</h1>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 - 🌱 I’m currently learning Jquery.
 - ⚡ Fun fact: I hate programming but, I also Love CODING !!! 
+- 📫 How to reach me *apratiksha1137@gmail.com*
 
 <h2> My GitHub Stats </h2>
 
@@ -12,7 +13,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandpratiksha&show_icons=true&count_private=true&&theme=highcontrast)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandpratiksha&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandpratiksha&theme=highcontrast alt="anandpratiksha")
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anandpratiksha&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
