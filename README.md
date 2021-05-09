@@ -3,7 +3,6 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
 
 - 🌱 I’m currently learning Jquery.
-- ⚡ Fun fact: I hate programming but, I also Love CODING !!! 
 - 📫 How to reach me *apratiksha1137@gmail.com*
 
 <h2> My GitHub Stats </h2>
